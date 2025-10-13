@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm That-One-Axolotl!
 
-<!--
-**That-One-Axolotl/That-One-Axolotl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I mostly just mess around and code random stuff here, if you are looking for good code, please leave XD.
 
-Here are some ideas to get you started:
+![More About me](https://That-One-Axolotl.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![That-One-Axolotl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=That-One-Axolotl&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=That-One-Axolotl&layout=compact)
+
+---
